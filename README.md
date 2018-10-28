@@ -1,0 +1,2 @@
+# kmdice.bet
+KMDICE website
