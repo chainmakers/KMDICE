@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## KMDICE - First minable decentralized dice game
 
-You can use the [editor on GitHub](https://github.com/chainmakers/kmdice.bet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image of KMDICE](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2Ff5PLWof.png&t=594&c=RB3ufBt4HYrqeQ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is KMDICE
 
-### Markdown
+KMDICE is a POW blockchain dice game created within the Komodo Platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why KMDICE?
 
-```markdown
-Syntax highlighted code block
+We want to take advantage of Crypto Conditions transactions implemented in Komodo Platform and see what they are capable of. The complete coins supply will be 21 million coins, but the singularity of KMDICE is that 50% of the supply was premined and locked in a dice game contract that is inaccessible for anyone and has no house edge or financial benefit for the creators. The only way to get that 50% of the supply unlocked from the dice contract is by betting the other 50% of the supply against it but it needs to be mined first. The mining reward is 25 coins per block and it will have a halving every 210,000 blocks. 
 
-# Header 1
-## Header 2
-### Header 3
+### How do I install and play KMDICE?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chainmakers/kmdice.bet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can access KMDICE documentation in our [documentation page](http://docs.kmdice.bet)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Visit Komodo Platform Discord](https://discord.gg/guDVZm) and search for #kmdice 
+
+
