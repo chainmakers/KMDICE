@@ -14,6 +14,6 @@ You can access KMDICE documentation in our [documentation page](http://docs.kmdi
 
 ### Support or Contact
 
-[Visit Komodo Platform Discord](https://discord.gg/guDVZm) and search for #kmdice 
+[Visit Komodo Platform Discord](https://discord.gg/4AVY98) and search for #kmdice 
 
 
