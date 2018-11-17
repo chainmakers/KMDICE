@@ -1,4 +1,4 @@
-![Image of KMDICE](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2Ff5PLWof.png&t=594&c=RB3ufBt4HYrqeQ)
+![Image of KMDICE](https://i.imgur.com/SRe0N9K.png)
 
 ### What is KMDICE
 
