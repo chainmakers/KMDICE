@@ -1,4 +1,4 @@
-![Image of KMDICE](https://i.imgur.com/SRe0N9K.png)
+![Image of KMDICE](https://i.imgur.com/e26rHcF.png)
 
 ### What is KMDICE
 
