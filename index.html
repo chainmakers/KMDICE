@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700" rel="stylesheet"> 
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script type="text/javascript">
+            $(function() {
+              var pull    = $('#pull');
+                menu    = $('nav ul');
+                menuHeight  = menu.height();
+
+              $(pull).on('click', function(e) {
+                e.preventDefault();
+                menu.slideToggle();
+              });
+              $(window).resize(function() {
+                        if($(window).width() > 600) $('nav ul').removeAttr('style');
+              });
+            });
+        </script>
+</head>
+
+<body>
+	<div id="page" class="site">
+		<header class="site-header">
+			<div class="container-fluid flex">
+				<div class="logo">
+					<a href="index.php"><img src="images/logo.png" alt="logo" /></a>
+				</div>
+				<div class="hd-right">
+					<div class="navigation-top">
+						<nav class="main-navigation">
+							<a href="#"id="pull"><img src="images/logo.png" alt="logo" /></a>
+							<ul>
+								<li><a href="#">HOME</a></li>
+								<li><a href="#">NEWS</a></li>
+								<li><a href="#">TEAM</a></li>
+								<li><a href="#">FAQ</a></li>
+								<li><a href="#">CONTACT</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div id="content">
+			<div class="content-area">
+				<div class="container-fluid flex">
+					<div class="left">
+						<h1 class="border">First Minable <span class="blk">Decentralized Dice Game</span></h1>
+						<h2><span class="blue">What is</span> KMDice ?</h2>
+						<p>KMDICE is a POW blockchain dice game created within the Komodo Platform.</p>
+					</div>
+					<div class="right">
+						<img src="images/b1.png" alt="b1" />
+					</div>
+				</div>
+			</div>
+		
+			<div id="content-mid">
+				<div class="container-fluid flex">
+					<div class="left">
+						<img src="images/why1.png" alt="">
+					</div>
+					<div class="right">
+						<h2 class="border">Why <span class="blue">KMDice?</span></h2>
+						<p><small>We want to take advantage of Crypto Conditions transactions implemented in Komodo Platform and see what they are capable of. The complete coins supply will be <strong>21 million coins</strong>, but the singularity of KMDICE is that 50% of the supply was premined and locked in a dice game contract that is inaccessible for anyone and has no house edge or financial benefit for the creators. The only way to get that 50% of the supply unlocked from the dice contract is by betting the other 50% of the supply against it but it needs to be mined first. </small></p>
+						<p>The mining reward is 25 coins per block and it will have a halving every 210,000 blocks.</p>
+					</div>
+				</div>
+			</div>
+			<div id="content-bottom">
+				<div class="container-fluid flex">
+					<div class="left">
+						<h2 class="border">How do I install & play KMDice?</h2>
+					</div>
+					<div class="right">
+						<ul>
+							<li><a href="#"><img src="images/ubuntu.png" alt=""><span>ubuntu</span></a></li>
+							<li><a href="#"><img src="images/osx.png" alt=""><span>osx</span></a></li>
+							<li><a href="#"><img src="images/windows.png" alt=""><span>windows</span></a></li>
+							<li><a href="#"><img src="images/dice.png" alt=""></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footer-top">
+			<div class="container-fluid">
+				<img src="images/ft-logo.png" alt="">
+			</div>
+		</div>
+	</div>
+</body>
+
+<footer class="site-footer">
+	<div class="container-fluid">
+		<h2>Support or <span class="blue">Contact</span></h2>
+		<p><span class="blue">Visit Komodo Platform Discord and search for</span> #kmdice</p>
+		<img src="images/komodo.png" alt="komodo" class="ft-logo"/>
+		<div class="navigation-bottom">
+			<nav class="footer-navigation">
+				<ul>
+					<li><a href="#">HOME</a></li>
+					<li><a href="#">NEWS</a></li>
+					<li><a href="#">TEAM</a></li>
+					<li><a href="#">FAQ</a></li>
+					<li><a href="#">CONTACT</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="copyright">
+			<p>&copy; 2018. KMDice. All Rights Reserved</p>
+		</div>
+	</div>
+</footer>
